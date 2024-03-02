@@ -1,0 +1,13 @@
+{
+	"font_size": 14,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"theme": "auto",
+	"trim_trailing_whitespace_on_save": true,
+	"color_scheme": "auto",
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+	"light_color_scheme": "Breakers.sublime-color-scheme",
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Default.sublime-theme",
+	"open_files_in_new_window": false,
+}
